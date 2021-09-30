@@ -1,4 +1,4 @@
-from prothon.fbs_base import fbsBase
+from flathon.fbs_base import fbsBase
 
 
 class FbsField(fbsBase):
